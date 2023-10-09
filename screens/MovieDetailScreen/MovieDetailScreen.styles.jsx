@@ -34,6 +34,11 @@ export const styles = StyleSheet.create({
     fontSize: 18,
     fontWeight: "300",
     marginTop: 20,
-    textAlign: "center",
+    textAlign: "center"
   },
+  h5: {
+    height: 200, 
+    width: 350, 
+    resizeMode: "contain" 
+  }
 });
